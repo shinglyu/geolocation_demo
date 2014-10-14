@@ -1,0 +1,13 @@
+{
+  "name": "Geolocation Test",
+  "description": "A simple demo of geolocation feature",
+  "launch_path": "/geoloc.html",
+  "icons": {
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Shing Lyu",
+    "url": "http://shinglyu.github.io"
+  },
+  "default_locale": "en"
+}
