@@ -9,5 +9,11 @@
     "name": "Shing Lyu",
     "url": "http://shinglyu.github.io"
   },
-  "default_locale": "en"
+  "default_locale": "en",
+  "permissions": {
+    "geolocation":{
+      "description": "Required to show your current location on the map"
+    }
+  }
+
 }
